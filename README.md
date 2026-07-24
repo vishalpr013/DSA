@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishalpr013/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalpr013/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vishalpr013/DSA/tree/master/0189-rotate-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishalpr013/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vishalpr013/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalpr013/DSA/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishalpr013/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishalpr013/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vishalpr013/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
