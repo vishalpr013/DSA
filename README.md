@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalpr013/DSA/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/vishalpr013/DSA/tree/master/0189-rotate-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vishalpr013/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vishalpr013/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vishalpr013/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vishalpr013/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/vishalpr013/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vishalpr013/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/vishalpr013/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vishalpr013/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
